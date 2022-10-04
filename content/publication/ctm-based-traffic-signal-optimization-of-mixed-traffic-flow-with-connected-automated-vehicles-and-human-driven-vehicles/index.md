@@ -16,5 +16,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-10-04T15:48:50.108Z
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S037843712200468X
+date: "2022-10-01T00:00:00Z"
 ---
