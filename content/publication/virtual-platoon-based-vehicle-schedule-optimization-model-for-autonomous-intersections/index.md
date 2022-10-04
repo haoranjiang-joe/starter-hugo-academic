@@ -7,7 +7,7 @@ authors:
   - admin
   - Zhihong Yao
   - Yangsheng Jiang
-publication: Transportation Research Board of the National Academies
+publication: "*Transportation Research Board of the National Academies*"
 draft: false
 featured: false
 image:
