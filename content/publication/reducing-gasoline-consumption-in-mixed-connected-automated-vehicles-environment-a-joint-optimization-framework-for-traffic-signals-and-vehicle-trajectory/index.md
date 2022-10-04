@@ -18,5 +18,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-08-19T16:00:00.000Z
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0959652620318837
+date: "2020-08-20T00:00:00Z"
 ---
