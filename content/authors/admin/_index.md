@@ -1,8 +1,7 @@
 ---
 title: Joe
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Student
+bio: Hi!
 interests:
   - Connected and Autonomous Vehicles
   - Autonomous Intersection Management
