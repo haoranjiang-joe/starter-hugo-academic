@@ -1,7 +1,7 @@
 ---
-title: Joe
-role: Student
-bio: Hi!
+title: Joe Jiang
+role: Master Student
+bio: ""
 interests:
   - Connected and Autonomous Vehicles
   - Autonomous Intersection Management
@@ -9,24 +9,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon: graduation-cap
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southwest Jiaotong University
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -44,4 +40,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-W﻿elcome!
+W﻿elcome to my page! I am exploring how to build my own website.
