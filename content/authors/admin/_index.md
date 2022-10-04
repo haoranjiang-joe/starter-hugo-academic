@@ -10,14 +10,14 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: google-scholar
-    icon_pack: far
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
   - icon: github
     icon_pack: fas
     link: https://github.com/gcushen
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: researchgate
     link: https://www.researchgate.net/profile/Haoran-Jiang-8
 organizations:
@@ -25,15 +25,9 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Eng in Traffic Engineering
+      institution: Southwest Jiaotong University
+      year: 2020
 superuser: true
 last_name: Bighetti
 highlight_name: true
