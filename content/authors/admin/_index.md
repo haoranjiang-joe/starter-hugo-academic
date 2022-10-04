@@ -12,14 +12,14 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/gcushen
   - display:
       header: false
-    icon: graduation-cap
-    icon_pack: far
-    link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: fas
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Haoran-Jiang-8
 organizations:
   - name: Southwest Jiaotong University
     url: ""
