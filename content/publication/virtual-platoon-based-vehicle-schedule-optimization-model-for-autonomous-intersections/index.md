@@ -21,5 +21,8 @@ image:
   preview_only: false
   caption: ""
   alt_text: ""
+
+url_poster: ''
+
 date: 2022-10-04T13:02:29.523Z
 ---
