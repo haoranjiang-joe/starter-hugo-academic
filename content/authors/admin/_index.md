@@ -10,14 +10,14 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: far
     link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
   - icon: github
     icon_pack: fas
     link: https://github.com/gcushen
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: far
     icon: researchgate
     link: https://www.researchgate.net/profile/Haoran-Jiang-8
 organizations:
