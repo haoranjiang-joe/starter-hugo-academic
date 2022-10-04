@@ -1,5 +1,5 @@
 ---
-title: Haoran (Joe) Jiang
+title: Haoran Jiang
 role: Master Student
 bio: ""
 interests:
