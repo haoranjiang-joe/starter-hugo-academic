@@ -16,5 +16,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
+url_pdf: https://ieeexplore.ieee.org/document/9222573
 date: 2022-10-04T15:36:52.688Z
 ---
