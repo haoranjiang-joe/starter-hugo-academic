@@ -8,7 +8,7 @@ interests:
   - Autonomous Intersection Management
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: /#contact
   - icon: google-scholar
     icon_pack: ai
