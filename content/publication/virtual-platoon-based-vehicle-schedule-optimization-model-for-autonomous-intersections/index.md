@@ -22,7 +22,7 @@ image:
   caption: ""
   alt_text: ""
 
-url_poster: ''
+url_poster: 'poster.pdf'
 
 date: "2021-10-01T00:00:00Z"
 ---
