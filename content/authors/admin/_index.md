@@ -27,4 +27,4 @@ education:
 email: ""
 superuser: true
 ---
-Welcome to my page! I am exploring how to build my own website.
+Welcome to my page! I am a rookie researcher in the field of Intelligent Transportation Systems. I received my B.S. degree in transportation engineering from Southwest Jiaotong University, where I am now working as a master's student. My research interests include Connected and Autonomous Vehicles and Autonomous Intersection Management. I have a background in traffic engineering, operational research, and optimization. Besides, I want to touch on the field of game theory later.
