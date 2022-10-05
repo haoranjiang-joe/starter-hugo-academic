@@ -3,7 +3,7 @@
 widget: contact
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 130
@@ -25,10 +25,9 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jianghaoran@my.swjtu.edu.cn
-  email: jianghaoran.joe@foxmail.com
+  email: jianghaoran@my.swjtu.edu.cn or jianghaoran.joe@foxmail.com
   address:
-    street: 450 Serra Mall
+    street: School of Transportation and Logistics, Southwest Jiaotong University
     city: Chengdu
     region: Sichuan
     postcode: '610031'
