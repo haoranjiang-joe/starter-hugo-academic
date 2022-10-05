@@ -14,7 +14,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
   - icon: researchgate
-    icon_pack: far
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Haoran-Jiang-8
 organizations:
   - name: Southwest Jiaotong University
