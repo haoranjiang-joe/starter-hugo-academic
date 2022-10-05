@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jianghaoran@my.swjtu.edu.cn or jianghaoran.joe@foxmail.com
+  email: jianghaoran@my.swjtu.edu.cn
   address:
     street: School of Transportation and Logistics, Southwest Jiaotong University
     city: Chengdu
