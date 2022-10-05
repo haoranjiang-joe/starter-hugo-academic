@@ -33,7 +33,7 @@ abstract: This paper proposes a cell transmission model (CTM)-based traffic
   traffic congestion and improve the traffic capacity of the signalized
   intersection.
 draft: false
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S037843712200468X
+url_pdf: https://www.researchgate.net/publication/361393263_CTM-based_Traffic_Signal_Optimization_of_Mixed_Traffic_Flow_with_Connected_Automated_Vehicles_and_Human-driven_Vehicles
 featured: false
 image:
   filename: featured
