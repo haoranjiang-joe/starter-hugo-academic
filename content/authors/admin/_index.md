@@ -10,14 +10,9 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=nGwrS3wAAAAJ&hl=en
-  - icon: github
-    icon_pack: fas
-    link: https://github.com/gcushen
-  - display:
-      header: false
-    icon_pack: fas
+    icon_pack: ai
     icon: researchgate
     link: https://www.researchgate.net/profile/Haoran-Jiang-8
 organizations:
@@ -28,10 +23,10 @@ education:
     - course: B.Eng in Traffic Engineering
       institution: Southwest Jiaotong University
       year: 2020
-superuser: true
-last_name: Bighetti
-highlight_name: true
-first_name: Alice
+# superuser: true
+# last_name: Bighetti
+# highlight_name: true
+# first_name: Alice
 email: ""
 ---
-W﻿elcome to my page! I am exploring how to build my own website.
+Welcome to my page! I am exploring how to build my own website.
