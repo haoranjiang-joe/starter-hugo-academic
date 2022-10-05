@@ -5,6 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
+acitve: false
 
 # Order that this section appears on the page.
 weight: 40
