@@ -1,6 +1,7 @@
 ---
 title: Haoran Jiang
 role: Master Student
+avatar_filename: 头像.jpg
 bio: ""
 interests:
   - Connected and Autonomous Vehicles
@@ -23,10 +24,7 @@ education:
     - course: B.Eng in Traffic Engineering
       institution: Southwest Jiaotong University
       year: 2020
-# superuser: true
-# last_name: Bighetti
-# highlight_name: true
-# first_name: Alice
 email: ""
+superuser: true
 ---
 Welcome to my page! I am exploring how to build my own website.
