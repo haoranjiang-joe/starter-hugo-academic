@@ -21,6 +21,6 @@ image:
   focal_point: Smart
   preview_only: false
 
-pdf_url: "pdf.pdf"
-date: 2022-8-31T00:00:00Z
+url_pdf: "pdf.pdf"
+date: "2022-08-31T00:00:00Z"
 ---
