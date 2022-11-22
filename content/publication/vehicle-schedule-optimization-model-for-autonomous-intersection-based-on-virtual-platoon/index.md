@@ -21,5 +21,6 @@ image:
   focal_point: Smart
   preview_only: false
 
+url_poster: 'http://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2022.08.027'
 date: "2022-08-31T00:00:00Z"
 ---
