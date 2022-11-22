@@ -9,6 +9,12 @@ authors:
   - admin
   - Lu Hu
   - Yangsheng Jiang
+author_notes:
+  - Corresponding Author
+  - ""
+  - ""
+  - ""
+  - ""
 doi: https://doi.org/10.1016/j.physa.2022.127708
 publication: "*Physica A: Statistical Mechanics and its Applications*"
 abstract: This paper proposes a cell transmission model (CTM)-based traffic
