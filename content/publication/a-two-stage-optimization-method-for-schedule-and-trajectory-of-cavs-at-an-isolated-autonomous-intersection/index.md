@@ -8,6 +8,10 @@ authors:
   - admin
   - Yangsheng Jiang
   - Bin Ran
+author_notes:
+  - ""
+  - Correspondding Author
+  - ""
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 draft: false
 featured: false
