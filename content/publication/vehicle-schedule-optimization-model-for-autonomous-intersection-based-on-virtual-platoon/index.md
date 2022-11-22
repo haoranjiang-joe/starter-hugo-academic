@@ -21,6 +21,6 @@ image:
   focal_point: Smart
   preview_only: false
 
-url_pdf: "pdf.pdf"
+url_pdf: 'vehicle_schedule_optimization_model_for_autonomous_intersection_based_on_virtual_platoon.pdf'
 date: "2022-08-31T00:00:00Z"
 ---
