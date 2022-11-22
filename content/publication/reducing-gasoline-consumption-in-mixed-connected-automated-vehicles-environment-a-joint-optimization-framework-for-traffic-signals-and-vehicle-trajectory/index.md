@@ -10,6 +10,13 @@ authors:
   - Yuan Tengfei
   - admin
   - Yangsheng Jiang
+
+author_notes:
+  - Corresponding Author
+  - ""
+  - ""
+  - ""
+  - ""
 doi: 10.1016/j.jclepro.2020.121836
 publication: "*Journal of Cleaner Production*"
 draft: false
