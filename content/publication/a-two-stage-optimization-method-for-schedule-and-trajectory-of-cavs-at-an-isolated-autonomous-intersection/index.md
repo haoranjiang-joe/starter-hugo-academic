@@ -10,7 +10,8 @@ authors:
   - Bin Ran
 author_notes:
   - ""
-  - Correspondding Author
+  - Corresponding Author
+  - Corresponding Author
   - ""
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 draft: false
