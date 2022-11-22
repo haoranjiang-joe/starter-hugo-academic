@@ -13,7 +13,7 @@ author_notes:
   - ""
   - Corresponding Author
   - ""
-publication: China Journal of Highway and Transport
+publication: '*China Journal of Highway and Transport*'
 draft: false
 featured: false
 image:
