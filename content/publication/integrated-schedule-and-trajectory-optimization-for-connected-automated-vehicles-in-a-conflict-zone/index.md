@@ -30,6 +30,12 @@ authors:
   - Yang Cheng
   - Yangsheng Jiang
   - Bin Ran
+author_notes:
+  - Corresponding Author
+  - ""
+  - ""
+  - ""
+  - ""
 doi: 10.1109/TITS.2020.3027731
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 publication_short: ""
