@@ -1,7 +1,7 @@
 ---
 title: Haoran Jiang
 role: Master Student
-avatar_filename: haoran-jiang.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Connected and Autonomous Vehicles
