@@ -13,6 +13,7 @@ author_notes:
   - Corresponding Author
   - Corresponding Author
   - ""
+doi: 10.1109/TITS.2022.3230682
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 draft: false
 featured: false
