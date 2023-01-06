@@ -14,7 +14,7 @@ author_notes:
   - Corresponding Author
   - ""
 doi: 10.1109/TITS.2022.3230682
-url_pdf: [https://www.researchgate.net/publication/345140139_Integrated_Schedule_and_Trajectory_Optimization_for_Connected_Automated_Vehicles_in_a_Conflict_Zone]
+url_pdf: https://www.researchgate.net/publication/345140139_Integrated_Schedule_and_Trajectory_Optimization_for_Connected_Automated_Vehicles_in_a_Conflict_Zone
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 draft: false
 featured: false
