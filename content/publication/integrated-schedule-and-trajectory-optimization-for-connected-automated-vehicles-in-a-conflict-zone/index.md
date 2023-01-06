@@ -19,7 +19,7 @@ abstract: The large-scale application of connected automated vehicles (CAVs)
   different traffic demands. Sensitivity analysis indicates that the performance
   of the proposed method is mainly determined by the minimum safety time
   interval of vehicles entering the conflict zone.
-url_pdf: https://www.researchgate.net/publication/345140139_Integrated_Schedule_and_Trajectory_Optimization_for_Connected_Automated_Vehicles_in_a_Conflict_Zone
+url_pdf: https://ieeexplore.ieee.org/document/9222573
 title: Integrated Schedule and Trajectory Optimization for Connected Automated
   Vehicles in a Conflict Zone
 publication_types:
@@ -36,7 +36,7 @@ author_notes:
   - ""
   - ""
   - ""
-doi: 10.1109/TITS.2020.3027731
+<!-- doi: 10.1109/TITS.2020.3027731 -->
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 publication_short: ""
 featured: true
