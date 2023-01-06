@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://www.researchgate.net/publication/345140139_Integrated_Schedule_and_Trajectory_Optimization_for_Connected_Automated_Vehicles_in_a_Conflict_Zone
+url_pdf: 10.1109/TITS.2022.3230682
 title: A Two-Stage Optimization Method for Schedule and Trajectory of CAVs at an
   Isolated Autonomous Intersection
 publication_types:
@@ -15,7 +15,7 @@ author_notes:
   - Corresponding Author
   - Corresponding Author
   - ""
-doi: 10.1109/TITS.2022.3230682
+<!-- doi: 10.1109/TITS.2022.3230682 -->
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 featured: false
 image:
