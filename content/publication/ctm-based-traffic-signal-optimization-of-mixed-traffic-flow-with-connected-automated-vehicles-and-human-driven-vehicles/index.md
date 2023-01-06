@@ -15,7 +15,7 @@ author_notes:
   - ""
   - ""
   - ""
-doi: https://doi.org/10.1016/j.physa.2022.127708
+<!-- doi: https://doi.org/10.1016/j.physa.2022.127708 -->
 publication: "*Physica A: Statistical Mechanics and its Applications*"
 abstract: This paper proposes a cell transmission model (CTM)-based traffic
   signal timing model of mixed traffic flow composed of connected automated
@@ -39,7 +39,7 @@ abstract: This paper proposes a cell transmission model (CTM)-based traffic
   traffic congestion and improve the traffic capacity of the signalized
   intersection.
 draft: false
-url_pdf: https://www.researchgate.net/publication/361393263_CTM-based_Traffic_Signal_Optimization_of_Mixed_Traffic_Flow_with_Connected_Automated_Vehicles_and_Human-driven_Vehicles
+url_pdf: https://doi.org/10.1016/j.physa.2022.127708
 featured: false
 image:
   filename: featured
