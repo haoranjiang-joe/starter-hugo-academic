@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: 10.1109/TITS.2022.3230682
+url_pdf: https://ieeexplore.ieee.org/document/10007069
 title: A Two-Stage Optimization Method for Schedule and Trajectory of CAVs at an
   Isolated Autonomous Intersection
 publication_types:
