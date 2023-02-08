@@ -7,6 +7,10 @@ authors:
   - admin
   - Zhihong Yao
   - Yangsheng Jiang
+author_notes:
+  - ""
+  - Corresponding Author
+  - ""
 publication: "*Transportation Research Board of the National Academies*"
 publication_short: ""
 draft: false
