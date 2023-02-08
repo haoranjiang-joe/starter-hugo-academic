@@ -23,5 +23,5 @@ image:
 
 url_poster: 'poster.pdf'
 
-date: "2023-1-12T00:00:00Z"
+date: "2023-01-12T00:00:00Z"
 ---
