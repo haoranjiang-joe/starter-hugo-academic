@@ -1,6 +1,6 @@
 ---
 title: Haoran Jiang
-role: Master Student
+role: Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
