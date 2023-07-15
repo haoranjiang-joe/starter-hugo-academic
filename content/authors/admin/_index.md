@@ -28,4 +28,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Welcome to my page! I am a rookie researcher in the field of Intelligent Transportation Systems. I received my B.S. degree in transportation engineering from Southwest Jiaotong University, where I am now working as a master's student. My research interests include Connected and Autonomous Vehicles and Autonomous Intersection Management. I have a background in traffic engineering, operational research, and optimization.
+I received my B.S. degree in Transportation Engineering from Southwest Jiaotong University, Chengdu, China, in 2020. From 2020 to 2023, I studied as a Master's student at the School of Transportation and Logistics, Southwest Jiaotong University, where I am currently working towards my Ph.D. degree.
+
+My research interests include intelligent transportation systems and connected automated vehicles. I have co-authored 6 articles that have been published in the IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, Physica A, etc.
+
+I am currently serving as a reviewer for the IEEE Transactions on Intelligent Transportation Systems, Transportation Letters, Journal of Advanced Transportation, etc.
