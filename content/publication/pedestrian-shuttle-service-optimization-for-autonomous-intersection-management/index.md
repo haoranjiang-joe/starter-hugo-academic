@@ -12,7 +12,8 @@ author_notes:
   - ""
   - Corresponding Author
   - ""
-doi: https://doi.org/10.1016/j.trc.2024.104623
+  - ""
+  - ""
 publication: "*Transportation Research Part C: Emerging Technologies*"
 abstract: Autonomous intersection management (AIM) has been widely investigated
   over the past two decades as a solution for signal-free intersections in a
@@ -44,6 +45,7 @@ abstract: Autonomous intersection management (AIM) has been widely investigated
   commercial solver, making the APS service system potentially applicable for
   field implementation.
 draft: false
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X2400144X
 featured: true
 image:
   filename: featured
