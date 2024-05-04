@@ -20,6 +20,7 @@ abstract: The large-scale application of connected automated vehicles (CAVs)
   of the proposed method is mainly determined by the minimum safety time
   interval of vehicles entering the conflict zone.
 url_pdf: https://ieeexplore.ieee.org/document/9222573
+<!-- doi: 10.1109/TITS.2020.3027731 -->
 title: Integrated Schedule and Trajectory Optimization for Connected Automated
   Vehicles in a Conflict Zone
 publication_types:
@@ -36,14 +37,13 @@ author_notes:
   - ""
   - ""
   - ""
-<!-- doi: 10.1109/TITS.2020.3027731 -->
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 publication_short: ""
-featured: true
+featured: false
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2020-10-13T00:00:00Z
+date: 2020-10-13T00:00:00.000Z
 ---
