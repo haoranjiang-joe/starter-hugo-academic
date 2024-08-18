@@ -3,7 +3,7 @@ abstract: Autonomous intersection management (AIM) guides vehicles to pass throu
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10057033
 title: Is All-Direction Turn Lane a Good Choice for Autonomous Intersections? A Study of Method Development and Comparisons
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Zhihong Yao
