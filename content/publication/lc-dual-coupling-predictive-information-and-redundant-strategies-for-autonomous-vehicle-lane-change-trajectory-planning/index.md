@@ -10,8 +10,14 @@ authors:
   - Zipeng Man
   - Yangsheng Jiang
   - Zhihong Yao
+author_notes:
+  - ""
+  - ""
+  - ""
+  - Corresponding Author
+  - Corresponding Author
 doi: 10.1109/TIV.2024.3515219
-publication: IEEE Transactions on Intelligent Vehicles
+publication: "*IEEE Transactions on Intelligent Vehicles*"
 abstract: Autonomous vehicles (AVs) face considerable challenges when
   interacting with their environment, especially during lane changes. Enhancing
   decision-making and planning processes with prediction regarding the
