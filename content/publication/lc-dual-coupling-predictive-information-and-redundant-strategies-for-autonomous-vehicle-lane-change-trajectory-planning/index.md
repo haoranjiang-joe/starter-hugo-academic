@@ -16,7 +16,7 @@ author_notes:
   - ""
   - Corresponding Author
   - Corresponding Author
-doi: 10.1109/TIV.2024.3515219
+url_pdf: https://ieeexplore.ieee.org/document/10791910
 publication: "*IEEE Transactions on Intelligent Vehicles*"
 abstract: Autonomous vehicles (AVs) face considerable challenges when
   interacting with their environment, especially during lane changes. Enhancing
