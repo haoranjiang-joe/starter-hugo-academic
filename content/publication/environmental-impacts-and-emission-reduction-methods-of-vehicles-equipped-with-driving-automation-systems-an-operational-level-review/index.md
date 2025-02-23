@@ -10,8 +10,15 @@ authors:
   - Zhihong Yao
   - Yangsheng Jiang
   - Zhengbing He
+author_notes:
+  - ""
+  - ""
+  - ""
+  - Corresponding Author
+  - Corresponding Author
+  - Corresponding Author
 doi: https://doi.org/10.1016/j.trc.2024.104996
-publication: "Transportation Research Part C: Emerging Technologies"
+publication: "*Transportation Research Part C: Emerging Technologies*"
 abstract: "Driving automation systems offer both opportunities and challenges in
   addressing environmental issues. It is essential to clarify: (1) the
   environmental impacts of driving automation systems-equipped vehicles
