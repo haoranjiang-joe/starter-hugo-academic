@@ -2,8 +2,18 @@
 title: A Queuing Model and Capacity Analysis for Reservation-Based Autonomous
   Intersection
 publication_types:
-  - "0"
   - "2"
+authors:
+  - Zhihong Yao
+  - Yingying Zhao
+  - admin
+  - Yunxia Wu
+author_notes:
+  - ""
+  - Corresponding Author
+  - ""
+  - ""
+publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 abstract: Traffic capacity is an important indicator of traffic supply
   capability. An accurate portrayal of intersection capacity serves as a
   foundation for various intersection management studies, supporting the
@@ -32,10 +42,11 @@ abstract: Traffic capacity is an important indicator of traffic supply
   valuable insights for intersection design, level of service determination, and
   management control strategy selection.
 draft: false
+url_pdf: https://ieeexplore.ieee.org/document/11047237
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-07-12T04:04:18.075Z
+date: 2025-06-23T04:04:18.075Z
 ---
