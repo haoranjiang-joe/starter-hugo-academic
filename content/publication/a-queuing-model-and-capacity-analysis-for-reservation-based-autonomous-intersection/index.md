@@ -10,8 +10,8 @@ authors:
   - Yunxia Wu
 author_notes:
   - ""
-  - Corresponding Author
   - ""
+  - Corresponding Author
   - ""
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
 abstract: Traffic capacity is an important indicator of traffic supply
