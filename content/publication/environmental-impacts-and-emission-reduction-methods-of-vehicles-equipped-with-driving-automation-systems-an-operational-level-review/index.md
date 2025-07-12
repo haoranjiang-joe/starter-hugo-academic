@@ -17,7 +17,6 @@ author_notes:
   - Corresponding Author
   - Corresponding Author
   - Corresponding Author
-doi: https://doi.org/10.1016/j.trc.2024.104996
 publication: "*Transportation Research Part C: Emerging Technologies*"
 abstract: "Driving automation systems offer both opportunities and challenges in
   addressing environmental issues. It is essential to clarify: (1) the
@@ -44,6 +43,7 @@ abstract: "Driving automation systems offer both opportunities and challenges in
   network-based ecological schemes. Finally, this study outlines five potential
   research directions for the sustainable development of AVs."
 draft: false
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X24005175
 featured: true
 image:
   filename: featured
