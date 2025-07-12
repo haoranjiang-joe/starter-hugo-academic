@@ -28,8 +28,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I received my B.S. degree in Transportation Engineering from Southwest Jiaotong University, Chengdu, China, in 2020. From 2020 to 2023, I studied as a Master's student at the School of Transportation and Logistics, Southwest Jiaotong University, where I am currently working towards my Ph.D. degree.
+I received my B.S. degree in  Engineering from Southwest Jiaotong University, Chengdu, China, in 2020. From 2020 to 2023, I studied as a Master's student at the School of Transportation and Logistics, Southwest Jiaotong University, where I am currently working towards my Ph.D. degree.
 
-My research interests include intelligent transportation systems and connected automated vehicles. I have co-authored 6 articles that have been published in the IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, Physica A, etc.
-
-I am currently serving as a reviewer for the IEEE Transactions on Intelligent Transportation Systems, Transportation Letters, Journal of Advanced Transportation, etc.
+My research interests include intelligent transportation systems and connected automated vehicles. I have co-authored several articles that have been published in Transportation Research Part C, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, etc.
