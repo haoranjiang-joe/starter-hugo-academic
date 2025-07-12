@@ -21,9 +21,15 @@ organizations:
     url: ""
 education:
   courses:
-    - course: B.Eng in Traffic Engineering
+    - course: B.E in Traffic Engineering
       institution: Southwest Jiaotong University
-      year: 2020
+      year: ""
+    - course: M.S in Traffic Engineering
+      institution: Southwest Jiaotong University
+      year: ""
+    - course: Ph.D in Transportation Planning and Management
+      institution: Southwest Jiaotong University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
