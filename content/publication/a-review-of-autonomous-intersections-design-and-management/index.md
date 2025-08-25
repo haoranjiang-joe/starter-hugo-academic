@@ -15,9 +15,7 @@ author_notes:
   - Corresponding Author
   - ""
 publication: "*Journal of Transportation Engineering and Information*"
-abstract:
 draft: false
-url_pdf: https://jtgc.cbpt.cnki.net/portal/journal/portal/client/paper/3f1da3db27e661b27e3f57ad9eadb5ba
 featured: false
 image:
   filename: featured
