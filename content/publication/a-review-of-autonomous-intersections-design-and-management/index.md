@@ -1,5 +1,5 @@
 ---
-title: A review of autonomous intersections: design and management
+title: "A review of autonomous intersections: design and management"
 publication_types:
   - "2"
 authors:
