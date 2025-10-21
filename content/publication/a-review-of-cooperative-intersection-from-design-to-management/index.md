@@ -12,6 +12,7 @@ author_notes:
   - ""
   - Corresponding Author
   - ""
+publication: "*IEEE Transactions on Intelligent Vehicles*"
 abstract: Urban intersections are critical areas where traffic flows converge
   and conflict, significantly influencing traffic safety, economic benefits, and
   energy consumption. Effective management and control of intersections have
