@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Zhihong Yao
   - Yingying Zhao
-  - Haoran Jiang
+  - admin
   - Yangsheng Jiang
 author_notes:
   - ""
