@@ -7,6 +7,11 @@ authors:
   - Yingying Zhao
   - Haoran Jiang
   - Yangsheng Jiang
+author_notes:
+  - ""
+  - ""
+  - Corresponding Author
+  - ""
 abstract: Urban intersections are critical areas where traffic flows converge
   and conflict, significantly influencing traffic safety, economic benefits, and
   energy consumption. Effective management and control of intersections have
@@ -28,6 +33,7 @@ abstract: Urban intersections are critical areas where traffic flows converge
   integrating various intersection control strategies to collectively enhance
   traffic efficiency, sustainability, and safety cooperatively.
 draft: false
+url_pdf: https://ieeexplore.ieee.org/document/11202555
 featured: false
 image:
   filename: featured
