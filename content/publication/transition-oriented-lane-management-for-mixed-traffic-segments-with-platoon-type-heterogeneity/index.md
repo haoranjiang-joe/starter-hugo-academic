@@ -2,8 +2,24 @@
 title: Transition-oriented lane management for mixed-traffic segments with
   platoon-type heterogeneity
 publication_types:
-  - "0"
   - "2"
+authors:
+  - Yingying Zhao
+  - admin
+  - Zihan Wang
+  - Zhihong Yao
+  - Ronghui Zhang
+  - Xiaolei Ma
+  - Ronghui Liu
+author_notes:
+  - ""
+  - ""
+  - ""
+  - ""
+  - Corresponding Author
+  - ""
+  - ""
+publication: "*Transportation Research Part C: Emerging Technologies*"
 abstract: The gradual transition toward connected and automated mobility leads
   to prolonged coexistence of heterogeneous vehicles—human-driven vehicles
   (HVs), connected HVs (CHVs), automated vehicles (AVs), and connected automated
@@ -27,10 +43,11 @@ abstract: The gradual transition toward connected and automated mobility leads
   provides an analytical basis for adaptive lane-management decisions and
   supports infrastructure planning under evolving mixed-traffic conditions.
 draft: false
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0968090X26006005
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2026-11-09T12:20:32.495Z
+date: 2026-11-06T04:04:18.075Z
 ---
